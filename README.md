@@ -20,7 +20,7 @@
 
 ## Description
 
-Establishing relationship between pulse rate and systolic blood pressure. As the pulse rate increases, systolic blood pressure tends to rise.
+In this project we tried to establish a relation between pulse rate in a male and his systolic blood pressure. Here we have used linear regression technique to predict possible blood pressure reading if we know the pulse rate of a person.
 
 ## Video
 <!--
